@@ -5,6 +5,8 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.List;
 
+
+///   rtfyuihukgcguh/
 @Data
 public class Course implements Serializable {
     private Integer id;
